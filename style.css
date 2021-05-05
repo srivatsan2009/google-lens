@@ -1,0 +1,15 @@
+.body {
+    font-family: 'Lato', sans-serif;
+background-color: #ffd900;
+}
+
+.text_and_images_and_result {
+color: #0088ff;
+background-blend-mode: hard-light;
+background-color: red;
+}
+
+.text_and_images_and_result img {
+width: 310;
+}
+    
